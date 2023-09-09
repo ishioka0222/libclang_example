@@ -8,7 +8,7 @@
 
 ```bash
 poetry install
-poetry run main .\resources\header.h
+poetry run main ./resources/header.h
 ```
 
 ### Poetryがインストールされていない場合
