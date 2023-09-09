@@ -4,7 +4,12 @@ version = "0.1.0"
 description = ""
 authors = ["Hiroki Ishioka <ishioka0222@gmail.com>"]
 readme = "README.md"
-packages = [{include = "libclang_example", from = "src"}]
+packages = [{ include = "libclang_example", from = "src" }]
+
+
+[tool.poetry.scripts]
+main = "libclang_example.main:main"
+
 
 [tool.poetry.dependencies]
 python = "^3.11"
