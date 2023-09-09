@@ -1,4 +1,7 @@
-# libclangを使用してC++言語のソースコードから関数宣言の情報を取得する例
+# PythonのlibclangでC++のヘッダーファイルから情報を抽出する例
+
+説明は以下のURLで公開しています。  
+https://qiita.com/ishioka0222/items/3be5df6f8c503a8e307f
 
 ## 実行方法
 
