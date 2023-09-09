@@ -8,6 +8,7 @@ packages = [{include = "libclang_example", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+libclang = "^16.0.6"
 
 
 [build-system]
